@@ -1,0 +1,1 @@
+let abc: string = "hi from second.ts";
